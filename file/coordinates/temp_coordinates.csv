@@ -6,7 +6,6 @@ Dimension__維度, Quadrant__象限, X_coordinates__x座標, Y_coordinates__y座
 "overworld", "1", 535, 63, 125, "村民塔", true
 "overworld", "1", 130, 30, 501, "毒蜘蛛塔", true
 "overworld", "2", -95, -5, 215, "無限岩漿機", true
-"         ", "", 0, 0, 0, "我是分隔線🤖", none
 "overworld", "1", 570, 64, 70, "主村莊村民交易所", true
 "overworld", "1", 532, 63, 122, "伐木區", true
 "overworld", "1", 562, 63, 195, "竹子與甘蔗農場", true
@@ -25,7 +24,6 @@ Dimension__維度, Quadrant__象限, X_coordinates__x座標, Y_coordinates__y座
 "overworld", "3", -539, 128, -626, "前哨站", false
 "overworld", "3", -523, 123, -65, "另一片櫻花樹森林", false
 "overworld", "3", -170, 90, -415, "天然礦坑", false
-"         ", "", 0, 0, 0, "我是分隔線🤖", none
 "overworld", "0", 0, 0, 0, "", false
 "overworld", "0", 0, 0, 0, "", false
 "overworld", "0", 0, 0, 0, "", false
