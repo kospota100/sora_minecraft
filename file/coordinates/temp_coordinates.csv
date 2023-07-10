@@ -1,0 +1,42 @@
+Dimension__維度, Quadrant__象限, X_coordinates__x座標, Y_coordinates__y座標, Z_coordinates__z座標, Content__內容, Data_processed
+"overworld", "1", 660, 63, 60, "主村莊", true
+"overworld", "2", -1, 100, 1, "重生點", true
+"overworld", "2", -50, 30, 220, "骷弓塔", true
+"overworld", "1", 535, 63, 125, "村民塔", true
+"overworld", "1", 532, 63, 122, "伐木區", true
+"overworld", "1", 562, 63, 195, "竹子與甘蔗農場", true
+"overworld", "1", 520, 63, 265, "農田預定地", true
+"overworld", "1", 130, 30, 501, "毒蜘蛛塔", true
+"overworld", "1", 140, 42, 525, "未探索的鐘乳石洞", true
+"overworld", "1", 142, 42, 500, "廢棄礦坑", true
+"overworld", "1", 655, 64, 30, "村莊倉庫", true
+
+"overworld", "1", 1065, 62, 183, "叢林", false
+"overworld", "3", -539, 128, -626, "前哨站", false
+"overworld", "2", -283, 154, 239, "山羊", false
+"overworld", "2", -1351, 67, 341, "10綠寶石修補村民", false
+"overworld", "2", -480, 115, 145, "雪山", false
+"overworld", "3", -523, 123, -65, "另一片櫻花樹森林", false
+"overworld", "2", -30, 180, 525, "雪山", false
+"overworld", "3", -170, 90, -415, "天然礦坑", false
+"overworld", "0", 0, 0, 0, "", false
+
+
+
+"the_nether", "4", 3, 94, -3, "重生點地獄門", true
+"the_nether", "1", 80, 50, 10, "主村莊地獄門", true
+"the_nether", "2", -0, 35, 40, "骷弓塔地獄門", true
+"the_nether", "0", 0, 0, 0, "", false
+"the_nether", "0", 0, 0, 0, "", false
+"the_nether", "0", 0, 0, 0, "", false
+"the_nether", "0", 0, 0, 0, "", false
+"the_nether", "0", 0, 0, 0, "", false
+
+
+
+"the_end", "0", 0, 0, 0, "", false
+"the_end", "0", 0, 0, 0, "", false
+"the_end", "0", 0, 0, 0, "", false
+
+// 標準
+// 左邊的
