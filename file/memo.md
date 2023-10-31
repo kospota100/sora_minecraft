@@ -11,3 +11,6 @@
 `F2` - 截圖  
 
 `F3` + `D` - 清除聊天紀錄  
+
+查看伺服器狀態  
+[soroban.tplinkdns.com - Minecraft Server Status](https://mcstatus.io/status/java/soroban.tplinkdns.com)  
